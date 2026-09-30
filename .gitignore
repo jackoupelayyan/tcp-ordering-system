@@ -1,0 +1,15 @@
+# Compiled output
+out/
+*.class
+
+# Logs
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.idea/
+.vscode/
+*.iml
